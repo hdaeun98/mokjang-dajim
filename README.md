@@ -1,7 +1,5 @@
 # Mokjang Dajim Points (목장 다짐 포인트)
 
-A beautiful Korean goal tracking application for church small groups (목장) with Firebase integration.
-
 ## Features
 
 - **Person Management**: Add people with customizable goals and emoji selection
